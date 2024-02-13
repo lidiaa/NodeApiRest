@@ -22,7 +22,7 @@ function buscarSelecaoPorIr(idRecebido){
 }
 
 
-// criar uma rota padrao - raiz -> / 
+// criar uma rota padrao - raiz -> "/"
 // req = request
 // res = response
 app.get('/', (req, res) => {
